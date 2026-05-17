@@ -114,7 +114,4 @@ Program aşağıdaki adımları takip eder:
 6. Sonuç banda yazılır
 7. Makine kabul durumunda durur
 
----
-
-Bu proje eğitim amaçlı geliştirilmiştir ve Turing Makinesi mantığının anlaşılmasını hedeflemektedir.
 
