@@ -115,4 +115,13 @@ Program aşağıdaki adımları takip eder:
 6. Sonuç banda yazılır
 7. Makine kabul durumunda durur
 
+# Çalıştırma
+
+Python kurulu olduktan sonra terminal üzerinden aşağıdaki komut çalıştırılır:
+
+```bash
+python carpim_turing.py
+```
+
+
 
