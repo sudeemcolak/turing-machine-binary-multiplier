@@ -120,7 +120,7 @@ Program aşağıdaki adımları takip eder:
 Python kurulu olduktan sonra terminal üzerinden aşağıdaki komut çalıştırılır:
 
 ```bash
-python carpim_turing.py
+python3 carpim_turing.py
 ```
 
 
