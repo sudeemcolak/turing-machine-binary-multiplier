@@ -1,5 +1,5 @@
 # Turing Makinesi ile Binary Çarpma Hesaplayıcı
-
+BİL312 Özdevinirler Kuramı Ödevi
 Bu proje, Python programlama dili kullanılarak geliştirilmiş tek bantlı bir Turing Makinesi simülatörüdür. Program, iki binary (ikili) sayıyı “shift & add” yöntemi kullanarak çarpmaktadır.
 
 ## Projenin Amacı
